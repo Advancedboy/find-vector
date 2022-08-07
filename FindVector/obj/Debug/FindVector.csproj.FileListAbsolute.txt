@@ -1,0 +1,8 @@
+E:\Programming\2022\Science\FindVector\FindVector\bin\Debug\FindVector.exe.config
+E:\Programming\2022\Science\FindVector\FindVector\bin\Debug\FindVector.exe
+E:\Programming\2022\Science\FindVector\FindVector\bin\Debug\FindVector.pdb
+E:\Programming\2022\Science\FindVector\FindVector\obj\Debug\FindVector.csproj.AssemblyReference.cache
+E:\Programming\2022\Science\FindVector\FindVector\obj\Debug\FindVector.csproj.SuggestedBindingRedirects.cache
+E:\Programming\2022\Science\FindVector\FindVector\obj\Debug\FindVector.csproj.CoreCompileInputs.cache
+E:\Programming\2022\Science\FindVector\FindVector\obj\Debug\FindVector.exe
+E:\Programming\2022\Science\FindVector\FindVector\obj\Debug\FindVector.pdb
